@@ -1,0 +1,185 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.29)  7 APR 2021 09:35
+entering extended mode
+**./netanim_ex.tex
+(netanim_ex.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (animate.sty
+Package: animate 2010/09/28 PDF animations from files and inline graphics
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\ryano\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(C:\Users\ryano\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\ifdraft.sty"
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+) (animfp.sty
+Package: animfp 2009/07/23 fixed point addition for animate.sty
+\afp@xs=\count91
+\afp@xia=\count92
+\afp@xib=\count93
+\afp@xfa=\count94
+\afp@xfb=\count95
+\afp@rega=\count96
+\afp@regb=\count97
+\afp@regs=\count98
+)
+(C:\Users\ryano\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count99
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count100
+\nofMParguments=\count101
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count102
+\MPscratchDim=\dimen106
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
+\everyMPtoPDFconversion=\toks16
+)
+\@anim@@fields=\count105
+\@anim@@ocgs=\count106
+\@anim@@posterocgs=\count107
+\@anim@box=\box28
+\@anim@tmpdima=\dimen107
+\@anim@tmpdimb=\dimen108
+\@anim@num=\count108
+\@anim@curframe=\count109
+\@anim@curframe@zb=\count110
+\@anim@resize=\count111
+\@anim@skipfram=\count112
+\@anim@mulframecnt=\count113
+\@anim@@tmlnfile=\read1
+\@anim@tmpcnt=\count114
+\c@@anim@tmpcnt=\count115
+\@anim@curlayer=\count116
+\@anim@lineno=\count117
+\@anim@begin=\toks17
+\@anim@end=\toks18
+)
+No file netanim_ex.aux.
+\openout1 = `netanim_ex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+ <./netanim.pdf> <1> <./netanim.pdf> <2> <./netanim.pdf> <3> <./netanim.pdf>
+<4> <./netanim.pdf> <5> <./netanim.pdf> <6> <./netanim.pdf> <7> <./netanim.pdf>
+<8> <./netanim.pdf> <9> <./netanim.pdf> <10> <./netanim.pdf> <11> <./netanim.pd
+f> <12> <./netanim.pdf> <13> <./netanim.pdf> <14> <./netanim.pdf> <15> <./netan
+im.pdf> <16> <./netanim.pdf> <17> <./netanim.pdf> <18> <./netanim.pdf> <19> <./
+netanim.pdf> <20> <./netanim.pdf> <21> <./netanim.pdf> <22> <./netanim.pdf>
+<23> <./netanim.pdf> <24> <./netanim.pdf> <25> <./netanim.pdf> <26> <./netanim.
+pdf> <27> <./netanim.pdf> <28> <./netanim.pdf> <29> <./netanim.pdf> <30> <./net
+anim.pdf> <31> <./netanim.pdf> <32> <./netanim.pdf> <33> <./netanim.pdf> <34> <
+./netanim.pdf> <35> <./netanim.pdf> <36> <./netanim.pdf> <37> <./netanim.pdf>
+<38> <./netanim.pdf> <39> <./netanim.pdf> <40> <./netanim.pdf> <41> <./netanim.
+pdf> <42> <./netanim.pdf> <43> <./netanim.pdf> <44> <./netanim.pdf> <45> <./net
+anim.pdf> <46> <./netanim.pdf> <47> <./netanim.pdf> <48> <./netanim.pdf> <49> <
+./netanim.pdf> <50> <./netanim.pdf> <51> <./netanim.pdf> <52> <./netanim.pdf>
+<53> <./netanim.pdf> <54> <./netanim.pdf> <55> <./netanim.pdf> <56> <./netanim.
+pdf> <57> <./netanim.pdf> <58> <./netanim.pdf> <59> <./netanim.pdf> <60> <./net
+anim.pdf> <61> <./netanim.pdf> <62> <./netanim.pdf> <63> <./netanim.pdf> <64> <
+./netanim.pdf> <65> <./netanim.pdf> <66> <./netanim.pdf> <67> <./netanim.pdf>
+<68> <./netanim.pdf> <69> <./netanim.pdf> <70> <./netanim.pdf> <71> <./netanim.
+pdf> <72> <./netanim.pdf> <73> <./netanim.pdf> <74> <./netanim.pdf> <75> <./net
+anim.pdf> <76> <./netanim.pdf> <77> <./netanim.pdf> <78> <./netanim.pdf> <79> <
+./netanim.pdf> <80> <./netanim.pdf> <81> <./netanim.pdf> <82> <./netanim.pdf>
+<83> <./netanim.pdf> <84> <./netanim.pdf> <85> <./netanim.pdf> <86> <./netanim.
+pdf> <87> <./netanim.pdf> <88> <./netanim.pdf> <89> <./netanim.pdf> <90> <./net
+anim.pdf> <91> <./netanim.pdf> <92> <./netanim.pdf> <93> <./netanim.pdf> <94> <
+./netanim.pdf> <95> <./netanim.pdf> <96> <./netanim.pdf> <97> <./netanim.pdf>
+<98> <./netanim.pdf> <99> <./netanim.pdf> <100> <./netanim.pdf> <101> <./netani
+m.pdf> <102> <./netanim.pdf> <103> <./netanim.pdf> <104> <./netanim.pdf> <105> 
+<./netanim.pdf> <106> <./netanim.pdf> <107> <./netanim.pdf> <108> <./netanim.pd
+f> <109> <./netanim.pdf> <110> <./netanim.pdf> <111> <./netanim.pdf> <112> <./n
+etanim.pdf> <113> <./netanim.pdf> <114> <./netanim.pdf> <115> <./netanim.pdf>
+<116> <./netanim.pdf> <117> <./netanim.pdf> <118> <./netanim.pdf> <119> <./neta
+nim.pdf> <120> <./netanim.pdf> <121> <./netanim.pdf> <122> <./netanim.pdf>
+<123> <./netanim.pdf> <124> <./netanim.pdf> <125> <./netanim.pdf> <126> <./neta
+nim.pdf> <127> <./netanim.pdf> <128> <./netanim.pdf> <129> <./netanim.pdf>
+<130> <./netanim.pdf> <131> <./netanim.pdf> <132> <./netanim.pdf> <133> <./neta
+nim.pdf> <134> <./netanim.pdf> <135> <./netanim.pdf> <136> <./netanim.pdf>
+<137> <./netanim.pdf> <138> <./netanim.pdf> <139> <./netanim.pdf> <140> <./neta
+nim.pdf> <141> <./netanim.pdf> <142> <./netanim.pdf> <143> <./netanim.pdf>
+<144> <./netanim.pdf> <145> <./netanim.pdf> <146> <./netanim.pdf> <147> <./neta
+nim.pdf> <148> <./netanim.pdf> <149> <./netanim.pdf> <150> <./netanim.pdf>
+<151> <./netanim.pdf> <152> <./netanim.pdf> <153> <./netanim.pdf> <154> <./neta
+nim.pdf> <155> <./netanim.pdf> <156> <./netanim.pdf> <157> <./netanim.pdf>
+<158> <./netanim.pdf> <159> <./netanim.pdf> <160> <./netanim.pdf> <161> <./neta
+nim.pdf> <162> <./netanim.pdf> <163> <./netanim.pdf> <164> <./netanim.pdf>
+<165> <./netanim.pdf> <166> <./netanim.pdf> <167> <./netanim.pdf> <168> <./neta
+nim.pdf> <169> <./netanim.pdf> <170> <./netanim.pdf> <171> <./netanim.pdf>
+<172> <./netanim.pdf> <173> <./netanim.pdf> <174> <./netanim.pdf> <175> <./neta
+nim.pdf> <176> <./netanim.pdf> <177> <./netanim.pdf> <178> <./netanim.pdf>
+<179> <./netanim.pdf> <180> <./netanim.pdf> <181> <./netanim.pdf> <182> <./neta
+nim.pdf> <183> <./netanim.pdf> <184> <./netanim.pdf> <185> <./netanim.pdf>
+<186> <./netanim.pdf> <187> <./netanim.pdf> <188> <./netanim.pdf> <189> <./neta
+nim.pdf> <190> <./netanim.pdf> <191> <./netanim.pdf> <192> <./netanim.pdf>
+<193> <./netanim.pdf> <194> <./netanim.pdf> <195> <./netanim.pdf> <196> <./neta
+nim.pdf> <197> <./netanim.pdf> <198> <./netanim.pdf> <199> <./netanim.pdf>
+<200> [1{C:/Users/ryano/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(netanim_ex.aux) ) 
+Here is how much of TeX's memory you used:
+ 1963 strings out of 492945
+ 31238 string characters out of 3135513
+ 110934 words of memory out of 3000000
+ 5914 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,23p,192b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr10.pfb>
+Output written on netanim_ex.pdf (1 page, 3625469 bytes).
+PDF statistics:
+ 1248 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 3490 words of extra memory for PDF output out of 10000 (max. 10000000)
+
